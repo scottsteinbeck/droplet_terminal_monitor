@@ -1,5 +1,5 @@
 {
-  "name": "digital_ocean_monitor",
+  "name": "droplet_terminal_monitor",
   "version": "1.0.0",
   "main": "index.mjs",
   "keywords": [],
